@@ -1,0 +1,15 @@
+{
+  "category": "Nature",
+  "wallpapers": [
+    {
+      "id": 1,
+      "title": "Mountain View",
+      "url": "https://cdn.pixabay.com/photo/2015/06/12/13/16/mountain-806915_1280.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Beautiful Landscape",
+      "url": "https://cdn.pixabay.com/photo/2021/07/12/19/49/landscape-6421773_1280.jpg"
+    }
+  ]
+}
